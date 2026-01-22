@@ -1,0 +1,23 @@
+# Setup instructions for pushing to GitHub
+# Since git CLI is not available, follow these steps:
+
+# 1. Go to https://github.com/new
+# 2. Create a new repository named: ai-github-issue-assistant
+# 3. Keep it public
+# 4. Do NOT add README, .gitignore, or license (we have our own)
+
+# 5. Once created, you'll see instructions. In this project directory, run:
+#    - Install git from https://git-scm.com/download/win (if not installed)
+#    - Then run these commands:
+
+# git remote add origin https://github.com/YOUR_USERNAME/ai-github-issue-assistant.git
+# git branch -M main
+# git push -u origin main
+
+# Or push via:
+# 1. Use GitHub Desktop (https://desktop.github.com/)
+# 2. Click "Add Local Repository" 
+# 3. Select this folder
+# 4. Publish to GitHub
+
+# The repository is ready to be pushed!
